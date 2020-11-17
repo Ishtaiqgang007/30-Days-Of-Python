@@ -84,9 +84,9 @@ num2
 Invalid variables names
 
 ```shell
-first-name
-num-1
-1num
+ISHTIAQ KHAN
+num-03328296306
+1num KHAN
 ```
 
 We will use standard python variable naming style which has been adopted by many python developers. The example below is an example of standard naming of variables, underscore when the variable name is long.
